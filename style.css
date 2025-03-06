@@ -4,7 +4,9 @@ body {
     color: white;
     margin: 0;
 }
-
+h2 {
+    text-align: center;
+}
 .play {
     display: flex;
     flex-wrap: wrap;
