@@ -9,7 +9,15 @@ h2 {
 }
 .play {
     display: flex;
-    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: ;
+    border-radius: 50px;
+}
+
+.play2 {
+    display: flex;
     justify-content: center;
     max-width: 1000px;
     margin: 0 auto;
